@@ -2,7 +2,7 @@
 
 ## version 0.0.2
 
-## http://paranoiacview.github.io/oracle
+## http://irinamsvch.github.io/oracle
 
 ### Description
 The project is a two-page website with Oracle predictions in Russian. 
