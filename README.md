@@ -2,7 +2,7 @@
 
 ## version 0.0.2
 
-## http://irinamsvch.github.io/oracle
+## http://irinagrl.github.io/oracle
 
 ### Description
 The project is a two-page website with Oracle predictions in Russian. 
